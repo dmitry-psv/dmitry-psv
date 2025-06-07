@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/dmitry-psv)
+![Leetcode Stats](https://leetcard.jacoblin.cool/dmitry-psv?width=1000)
 <!--
 **dmitry-psv/dmitry-psv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
